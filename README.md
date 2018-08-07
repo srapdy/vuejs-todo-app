@@ -1,4 +1,5 @@
-# vue-skills
+# vue-todo-app
+This is a todo app built using Vue.js library and Veux for state management.
 
 ## Project setup
 ```

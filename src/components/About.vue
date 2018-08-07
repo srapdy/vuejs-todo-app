@@ -1,7 +1,8 @@
 <template>
   <div class="about">
-    <h1>Hello {{ this.their_name}}, this is an about page</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
+    <h1>To do list</h1>
+    <p>This is a to-do list application that helps you maintain a list of task that you intend to do.</p>
+    <p>This application is built using Vue.js framework and utilizes Vuex for state management.</p>
   </div>
 </template>
 
